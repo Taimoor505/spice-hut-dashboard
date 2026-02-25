@@ -1,0 +1,47 @@
+{
+  "name": "spice-hut-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:seed": "tsx scripts/seed.ts",
+    "menu:import": "tsx scripts/import-menu.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.3.1",
+    "bcryptjs": "^2.4.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "csv-parse": "^5.6.0",
+    "csv-stringify": "^6.5.2",
+    "dompurify": "^3.2.4",
+    "framer-motion": "^11.15.0",
+    "jose": "^5.9.6",
+    "lucide-react": "^0.475.0",
+    "next": "^15.1.7",
+    "pg": "^8.13.3",
+    "prisma": "^6.3.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.6.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^22.10.10",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.19.0",
+    "eslint-config-next": "^15.1.7",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

@@ -1,0 +1,275 @@
+Category,Product_ID,Product_Name,Price,Stock,CPN,Display_Order,Description,Image_URL,Featured,Allergens,Has_Options,Option_Group_IDs
+Doner Meals,439,A. Lamb Doner with Naan,7.6,1,1,0,Doner Meals: A. Lamb Doner with Naan,https://images.alaan.co.uk/spice-hut/products/a02855c9618b0354.webp,False,gluten,True,"14, 10, 9"
+Doner Meals,440,"B. Lamb Doner with Naan, Chips & Drink",9.5,1,1,1,"Doner Meals: B. Lamb Doner with Naan, Chips & Drink",https://images.alaan.co.uk/spice-hut/products/737cf023e085d1e3.webp,False,gluten,True,"14, 13, 10, 9"
+Doner Meals,441,"C. Lamb Doner with Pitta, Chips & Drink",8.5,1,1,2,"Doner Meals: C. Lamb Doner with Pitta, Chips & Drink",https://images.alaan.co.uk/spice-hut/products/230c38e00da3e03e.webp,False,celery,True,"14, 13, 10, 9"
+Doner Meals,442,"D. Lamb Doner, Chips & Drink",8.0,1,1,3,"Doner Meals: D. Lamb Doner, Chips & Drink",https://images.alaan.co.uk/spice-hut/products/230c38e00da3e03e.webp,False,gluten,True,"14, 13, 10, 9"
+Doner Meals,443,"E. Lamb Doner, 2 Wings, Chips & Drink",8.6,1,1,4,"Doner Meals: E. Lamb Doner, 2 Wings, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,444,"F. Lamb Doner in Bun, Chips & Drink",6.5,1,1,5,"Doner Meals: F. Lamb Doner in Bun, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,445,"G. Lamb Doner in Bun, 2 wings, Chips & Drink",7.2,1,1,6,"Doner Meals: G. Lamb Doner in Bun, 2 wings, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,446,H. Chicken Doner with Naan,7.7,1,1,7,Doner Meals: H. Chicken Doner with Naan,https://images.alaan.co.uk/spice-hut/products/f98f5be19a9f6b67.webp,False,None,True,"14, 10, 9"
+Doner Meals,447,"I. Chicken Doner with Naan, Chips & Drink",9.5,1,1,8,"Doner Meals: I. Chicken Doner with Naan, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,448,"J. Chicken Doner with Pitta, Chips & Drink",8.5,1,1,9,"Doner Meals: J. Chicken Doner with Pitta, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,449,"K. Chicken Doner, Chips & Drink",8.0,1,1,10,"Doner Meals: K. Chicken Doner, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,450,"L. Chicken Doner, 2 Wings, Chips & Drink",8.6,1,1,11,"Doner Meals: L. Chicken Doner, 2 Wings, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,451,"M. Chicken Doner in Bun, Chips & Drink",6.5,1,1,12,"Doner Meals: M. Chicken Doner in Bun, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,452,"N. Chicken Doner in Bun, 2 wings, Chips & Drink",7.2,1,1,13,"Doner Meals: N. Chicken Doner in Bun, 2 wings, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,453,A1. Mixed Doner with Naan,7.6,1,1,14,Doner Meals: A1. Mixed Doner with Naan,https://images.alaan.co.uk/spice-hut/products/7c6ea645b2cecc67.webp,False,None,True,"14, 10, 9"
+Doner Meals,454,"A2. Mixed Doner with Naan, Chips & Drink",9.5,1,1,15,"Doner Meals: A2. Mixed Doner with Naan, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,455,"A3. Mixed Doner with Pitta, Chips & Drink",8.5,1,1,16,"Doner Meals: A3. Mixed Doner with Pitta, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,456,"A4. Mixed Doner, Chip & Drink",8.0,1,1,17,"Doner Meals: A4. Mixed Doner, Chip & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,457,"A5. Mixed Doner, 2 Wings, Chips & Drink",8.6,1,1,18,"Doner Meals: A5. Mixed Doner, 2 Wings, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,458,"A6. Mixed Doner in Bun, Chips & Drink",6.5,1,1,19,"Doner Meals: A6. Mixed Doner in Bun, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Doner Meals,459,"A7. Mixed Doner in Bun, 2 wings, Chips & Drink",7.2,1,1,20,"Doner Meals: A7. Mixed Doner in Bun, 2 wings, Chips & Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Special Doner Meals,683,"LP1. Lamb Doner, Rice, Drink",11.5,1,1,0,"Special Doner Meals: LP1. Lamb Doner, Rice, Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Special Doner Meals,684,"CP1. Chicken Doner, Rice, Drink",11.5,1,1,1,"Special Doner Meals: CP1. Chicken Doner, Rice, Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Special Doner Meals,685,"MP1. Mixed Doner, Rice, Drink",12.0,1,1,2,"Special Doner Meals: MP1. Mixed Doner, Rice, Drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Special Doner Meals,686,CS2. Chicken Shatkora Doner Meal,9.9,1,1,3,Special Doner Meals: CS2. Chicken Shatkora Doner Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Special Doner Meals,687,LS2. Lamb Shatkora Doner Meal,9.9,1,1,4,Special Doner Meals: LS2. Lamb Shatkora Doner Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Special Doner Meals,688,LN2 Lamb Naga Doner Meal,9.9,1,1,5,Special Doner Meals: LN2 Lamb Naga Doner Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Special Doner Meals,689,CN2. Chicken Naga Doner Meal,9.9,1,1,6,Special Doner Meals: CN2. Chicken Naga Doner Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Special Doner Meals,690,"MS1. Mix Naga Doner, Naan Meal",11.5,1,1,7,"Special Doner Meals: MS1. Mix Naga Doner, Naan Meal",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"14, 13, 10, 9"
+Wrap Meals,524,RP1. Lamb Doner Wrap,5.2,1,1,0,Wrap Meals: RP1. Lamb Doner Wrap,https://images.alaan.co.uk/spice-hut/products/34cb7f9c0a4c7381.webp,False,gluten,False,None
+Wrap Meals,525,RP2. Lamb Doner Wrap Meal,6.7,1,1,0,Wrap Meals: RP2. Lamb Doner Wrap Meal,https://images.alaan.co.uk/spice-hut/products/e596c134467c4add.webp,False,gluten,True,13
+Wrap Meals,526,RP3. Chicken Doner Wrap,5.2,1,1,0,Wrap Meals: RP3. Chicken Doner Wrap,https://images.alaan.co.uk/spice-hut/products/34cb7f9c0a4c7381.webp,False,gluten,False,None
+Wrap Meals,527,RP4. Chicken Doner Wrap Meal,6.7,1,1,0,Wrap Meals: RP4. Chicken Doner Wrap Meal,https://images.alaan.co.uk/spice-hut/products/e596c134467c4add.webp,False,None,True,13
+Wrap Meals,528,RP5. Mixed Doner Wrap,5.2,1,1,0,Wrap Meals: RP5. Mixed Doner Wrap,https://images.alaan.co.uk/spice-hut/products/34cb7f9c0a4c7381.webp,False,None,False,None
+Wrap Meals,529,RP6. Mixed Doner Wrap Meal,6.8,1,1,0,Wrap Meals: RP6. Mixed Doner Wrap Meal,https://images.alaan.co.uk/spice-hut/products/e596c134467c4add.webp,False,None,True,13
+Wrap Meals,530,RP7. Chicken Burger Wrap,5.2,1,1,0,Wrap Meals: RP7. Chicken Burger Wrap,https://images.alaan.co.uk/spice-hut/products/34cb7f9c0a4c7381.webp,False,None,False,None
+Wrap Meals,531,RP8. Chicken Burger Wrap Meal,6.8,1,1,0,Wrap Meals: RP8. Chicken Burger Wrap Meal,https://images.alaan.co.uk/spice-hut/products/e596c134467c4add.webp,False,None,True,13
+Wrap Meals,748,RP9. Grilled Chicken Wrap,6.5,1,1,0,Wrap Meals: RP9. Grilled Chicken Wrap,https://images.alaan.co.uk/spice-hut/products/34cb7f9c0a4c7381.webp,False,None,False,None
+Chicken Meals,464,"A8. 1 PC Chicken, 3 Wings Meal",5.5,1,1,0,"Chicken Meals: A8. 1 PC Chicken, 3 Wings Meal",https://images.alaan.co.uk/spice-hut/products/d409ba6987489d81.webp,False,None,True,13
+Chicken Meals,750,6 Wings Meal,5.5,1,1,0,Chicken Meals: 6 Wings Meal,https://images.alaan.co.uk/spice-hut/products/77f0a3235f171f9f.webp,False,None,True,13
+Chicken Meals,465,A9. 2 PC Chicken Meal,5.5,1,1,1,Chicken Meals: A9. 2 PC Chicken Meal,https://images.alaan.co.uk/spice-hut/products/b03028a030d2c2d0.webp,False,None,True,13
+Chicken Meals,466,A10. 5 Wings Meal,5.0,1,1,2,Chicken Meals: A10. 5 Wings Meal,https://images.alaan.co.uk/spice-hut/products/77f0a3235f171f9f.webp,False,None,True,13
+Chicken Meals,467,A12. 1 PC Chicken Meal,4.0,1,1,3,Chicken Meals: A12. 1 PC Chicken Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Chicken Meals,468,"A13. 2 PCS Chicken, 2 Wings meal",6.0,1,1,4,"Chicken Meals: A13. 2 PCS Chicken, 2 Wings meal",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Chicken Meals,469,NWM5. 5 Naga Wings Meal,6.9,1,1,5,Chicken Meals: NWM5. 5 Naga Wings Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Chicken Meals,470,NWM6. 6 Naga Wings,6.0,1,1,6,Chicken Meals: NWM6. 6 Naga Wings,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Chicken Meals,471,6 Boxes 5 Hot Wings Meal,25.0,1,0,7,Chicken Meals: 6 Boxes 5 Hot Wings Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,740,B1. Fish Burger Meal,6.0,1,1,0,Burger Meals: B1. Fish Burger Meal,https://images.alaan.co.uk/spice-hut/products/fbd4c2653132abff.webp,False,None,True,13
+Burger Meals,742,B2. Veggie Burger Meal,6.0,1,1,0,Burger Meals: B2. Veggie Burger Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,744,B4. 6 Chilli Cheese Bites Meal,5.95,1,1,0,Burger Meals: B4. 6 Chilli Cheese Bites Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,746,B9. 6 Fish Fingers Meal,6.5,1,1,0,Burger Meals: B9. 6 Fish Fingers Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,472,A11. Chicken Burger Meal,6.5,1,1,1,Burger Meals: A11. Chicken Burger Meal,https://images.alaan.co.uk/spice-hut/products/f1b6593681868a08.webp,False,gluten,True,13
+Burger Meals,474,A11. Chicken Meal & 2 Wings,6.95,1,1,2,Burger Meals: A11. Chicken Meal & 2 Wings,https://images.alaan.co.uk/spice-hut/products/a7c125a816000621.webp,False,gluten,True,13
+Burger Meals,475,A14. Beef Burger Meal,4.5,1,1,4,Burger Meals: A14. Beef Burger Meal,https://images.alaan.co.uk/spice-hut/products/83136baf4acb78be.webp,False,None,True,13
+Burger Meals,479,A15. Cheese Burger Meal & 3 wings,6.5,1,1,5,Burger Meals: A15. Cheese Burger Meal & 3 wings,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,477,A16. Cheese Burger Meal,5.5,1,1,7,Burger Meals: A16. Cheese Burger Meal,https://images.alaan.co.uk/spice-hut/products/ba0c93e613e7554c.webp,False,None,True,13
+Burger Meals,480,A17. King Size Burger Meal,6.9,1,1,9,Burger Meals: A17. King Size Burger Meal,https://images.alaan.co.uk/spice-hut/products/9e7069522cc30ac7.webp,False,gluten,True,13
+Burger Meals,482,A18. Quarter Pounder meal,6.95,1,1,11,Burger Meals: A18. Quarter Pounder meal,https://images.alaan.co.uk/spice-hut/products/13bb8f5fb8d17823.webp,False,None,True,13
+Burger Meals,484,A18. Quarter Pounder meal & 2 Wings,7.5,1,1,12,Burger Meals: A18. Quarter Pounder meal & 2 Wings,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,485,A19. Half Pounder Meal,7.95,1,1,14,Burger Meals: A19. Half Pounder Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,487,A19. Half Pounder Meal & 2 Wings,8.6,1,1,15,Burger Meals: A19. Half Pounder Meal & 2 Wings,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,494,A20. 6 Chicken Nuggets Meal,5.8,1,1,17,Burger Meals: A20. 6 Chicken Nuggets Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,496,A21. Chicken Strip Burger Meal,5.8,1,1,19,Burger Meals: A21. Chicken Strip Burger Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,498,A22. 4 Pcs Chicken Strips Meal,6.0,1,1,21,Burger Meals: A22. 4 Pcs Chicken Strips Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,500,A23. 5 Mozzarella Sticks Meal,6.0,1,1,23,Burger Meals: A23. 5 Mozzarella Sticks Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,488,B10. Chicken Steak Burger Meal,5.5,1,1,25,Burger Meals: B10. Chicken Steak Burger Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burger Meals,490,B12. Tower Burger Meal,7.9,1,1,27,Burger Meals: B12. Tower Burger Meal,https://images.alaan.co.uk/spice-hut/products/f09eeeacd112a5e9.webp,False,gluten,True,13
+Burger Meals,492,B13. 1/4 Pounder With Doner Meal,7.95,1,1,29,Burger Meals: B13. 1/4 Pounder With Doner Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Burgers Single,473,Chicken Burger,4.95,1,1,0,Burgers Single: Chicken Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,567,Grill Chicken Burger,6.5,1,1,2,Burgers Single: Grill Chicken Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,489,Chicken Steak Burger,3.5,1,1,24,Burgers Single: Chicken Steak Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,476,Beef Burger,2.95,1,1,3,Burgers Single: Beef Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,478,Cheese Burger,3.5,1,1,6,Burgers Single: Cheese Burger,https://images.alaan.co.uk/spice-hut/products/da62062a66d0a3a3.webp,False,None,False,None
+Burgers Single,483,Quarter Pounder,5.5,1,1,10,Burgers Single: Quarter Pounder,https://images.alaan.co.uk/spice-hut/products/0629862239dddc19.webp,False,None,False,None
+Burgers Single,486,Half Pounder,6.8,1,1,13,Burgers Single: Half Pounder,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,481,King Size Burger,5.5,1,1,8,Burgers Single: King Size Burger,https://images.alaan.co.uk/spice-hut/products/27efe8ab73aafd3a.webp,False,gluten,False,None
+Burgers Single,491,Tower Burger,6.0,1,1,26,Burgers Single: Tower Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,493,1/4 Pounder With Doner,6.5,1,1,28,Burgers Single: 1/4 Pounder With Doner,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,741,Fish Burger,4.0,1,1,0,Burgers Single: Fish Burger,https://images.alaan.co.uk/spice-hut/products/13748285fd92bf6f.webp,False,None,False,None
+Burgers Single,743,Veggie  Burger,4.5,1,1,0,Burgers Single: Veggie  Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,497,Chicken Strip Burger,4.2,1,1,18,Burgers Single: Chicken Strip Burger,https://images.alaan.co.uk/spice-hut/products/364d40e219eb446b.webp,False,None,False,None
+Burgers Single,745,6 Chilli Cheese Bites,4.5,1,1,0,Burgers Single: 6 Chilli Cheese Bites,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,747,6 Fish Fingers,4.5,1,1,0,Burgers Single: 6 Fish Fingers,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,495,6 Chicken Nuggets,4.0,1,1,16,Burgers Single: 6 Chicken Nuggets,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,499,4 Pcs Chicken Strips,4.5,1,1,20,Burgers Single: 4 Pcs Chicken Strips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,501,5 Mozzarella Sticks,4.5,1,1,22,Burgers Single: 5 Mozzarella Sticks,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Burgers Single,611,Cod Fish,5.5,1,1,26,Burgers Single: Cod Fish,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Burgers,516,BMB1. Spice Hut Special Buttermilk Chicken Burger,6.5,1,1,0,"Algerian sauce, cheese and brioche, buttermilk breaded batter",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Burgers,517,BMB1. Spice Hut Special Buttermilk Chicken Burger Meal,8.5,1,1,1,"Algerian sauce, cheese and brioche, buttermilk breaded batter",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,519,GB1. Gourmet Burger Meal,8.95,1,1,3,"4oz patty fried onion, ketchup, Algerian, cheese, classic onion sauce",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,521,GB2. Smokey Burger Meal,8.95,1,1,5,"3.5oz patty, fried onion, in-house smoky sauce, lettuce, onion, cucumber",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,503,M1. Mak Single Cheese Burger Meal,5.0,1,1,7,"2oz patty brioche bun, cheese, gherkins, Algerian sauce",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,505,M2. Mak Double Cheese Burger Meal,6.95,1,1,9,"2x 2oz patty brioche bun, cheese, gherkins, Algerian sauce",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,507,M3. Big Mak Burger Meal,7.8,1,1,11,Special Burgers: M3. Big Mak Burger Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,509,M4. Mak Triple Cheese Burger Meal,7.8,1,1,13,"3x 2oz patty brioche bun, cheese, gherkins, Algerian sauce",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,515,NB1. Spice Hut Naga Chicken Burger Meal,8.5,1,1,15,Naga sauce fillet patty with naga sauce,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,511,S1. Smash Burger Meal,8.5,1,1,17,"Algerian sauce, brioche bun, gherkins, cheese and fried onion",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,513,S2. Double Smash Burger Meal,9.5,1,1,19,Special Burgers: S2. Double Smash Burger Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Burgers,523,ZN1. Zinger Burger Meal,8.5,1,1,21,"Algerian spicy sauce, cheese and brioche, buttermilk breaded batter",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Special Single,518,Gourmet Burger,7.0,1,1,2,Special Single: Gourmet Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Single,520,Smokey Burger,7.0,1,1,4,Special Single: Smokey Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Single,502,Mak Single Cheese Burger,3.0,1,1,6,Special Single: Mak Single Cheese Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Single,504,Mak Double Cheese Burger,5.0,1,1,8,Special Single: Mak Double Cheese Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Single,506,Big Mak Burger,6.0,1,1,10,Special Single: Big Mak Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Single,508,Mak Triple Cheese Burger,6.0,1,1,12,Special Single: Mak Triple Cheese Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Single,514,Spice Hut Naga Chicken Burger,6.5,1,1,14,Special Single: Spice Hut Naga Chicken Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Single,510,Smash Burger,6.5,1,1,16,Special Single: Smash Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Single,512,Double Smash Burger,7.5,1,1,18,Special Single: Double Smash Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Special Single,522,Zinger Burger,6.5,1,1,20,Special Single: Zinger Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Biryani,584,Chicken Biryani,9.0,1,1,0,Biryani: Chicken Biryani,https://via.placeholder.com/500x500?text=No+Image,False,None,True,11
+Biryani,585,Lamb Biryani,9.95,1,1,0,Biryani: Lamb Biryani,https://images.alaan.co.uk/spice-hut/products/f0afe6b0547ab325.webp,False,None,True,11
+Biryani,586,Chicken Tikka Biryani,10.5,1,1,0,Biryani: Chicken Tikka Biryani,https://images.alaan.co.uk/spice-hut/products/a7f4c1c53eb1ea70.webp,False,None,True,11
+Biryani,587,Lamb Tikka Biryani,10.95,1,1,0,Biryani: Lamb Tikka Biryani,https://via.placeholder.com/500x500?text=No+Image,False,None,True,11
+Biryani,588,Lamb Doner Biryani,9.5,1,1,0,Biryani: Lamb Doner Biryani,https://via.placeholder.com/500x500?text=No+Image,False,None,True,11
+Biryani,589,Prawn Biryani,9.5,1,1,0,Biryani: Prawn Biryani,https://images.alaan.co.uk/spice-hut/products/812cdd3d7219f0f1.webp,False,None,True,11
+Biryani,590,Keema Biryani,9.5,1,1,0,Biryani: Keema Biryani,https://via.placeholder.com/500x500?text=No+Image,False,None,True,11
+Biryani,591,King Prawn Biryani,14.5,1,1,0,Biryani: King Prawn Biryani,https://via.placeholder.com/500x500?text=No+Image,False,None,True,11
+Biryani,592,Mixed Biryani,10.5,1,1,0,Biryani: Mixed Biryani,https://via.placeholder.com/500x500?text=No+Image,False,None,True,11
+Biryani,593,Mixed Tikka Biryani,12.0,1,1,0,Biryani: Mixed Tikka Biryani,https://via.placeholder.com/500x500?text=No+Image,False,None,True,11
+Biryani,594,Vegetable Biryani,8.5,1,1,0,Biryani: Vegetable Biryani,https://via.placeholder.com/500x500?text=No+Image,False,None,True,11
+Grill Meals,749,RP10. Grill Chicken Wrap Meal,7.5,1,1,0,Grill Meals: RP10. Grill Chicken Wrap Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,566,GM1. 5 Grill Wings Meal,7.0,1,1,1,Grill Meals: GM1. 5 Grill Wings Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,568,GM2. Grill Chicken Burger Meal,7.5,1,1,3,Grill Meals: GM2. Grill Chicken Burger Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,569,"GM3. 1 PC Grill Chicken, 3 wings Meal",8.5,1,1,4,"Grill Meals: GM3. 1 PC Grill Chicken, 3 wings Meal",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,570,GM4. 1 PC Grill Chicken Meal,5.95,1,1,5,Grill Meals: GM4. 1 PC Grill Chicken Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,571,GM4. 1 PC Grill Chicken Pilau Rice Meal,9.5,1,1,6,Grill Meals: GM4. 1 PC Grill Chicken Pilau Rice Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,572,"GM5. 3 Lamb Chops, 3 Grill Wings Meal",12.5,1,1,7,"Grill Meals: GM5. 3 Lamb Chops, 3 Grill Wings Meal",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,574,GM6. 4 Lamb Chops Meal,13.5,1,1,9,Grill Meals: GM6. 4 Lamb Chops Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,575,GM7. Half Grill Chicken Meal,9.0,1,1,10,Grill Meals: GM7. Half Grill Chicken Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,576,GM7. Half Grill Chicken Pilau Rice Meals,10.95,1,1,11,Grill Meals: GM7. Half Grill Chicken Pilau Rice Meals,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,577,GM8. Whole Grill Chicken Meal,16.5,1,1,12,Grill Meals: GM8. Whole Grill Chicken Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"6, 13"
+Grill Meals,578,"GM9. 4 Grill Wings, 4 Chicken Tikka Meal",8.5,1,1,13,"Grill Meals: GM9. 4 Grill Wings, 4 Chicken Tikka Meal",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"6, 13"
+Grill Meals,579,"GM10. Whole Grill Chicken, Naan, Pilau Rice Meal",17.95,1,1,14,"Grill Meals: GM10. Whole Grill Chicken, Naan, Pilau Rice Meal",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,580,GM11. 6 Lamb Chops Meal,18.5,1,1,15,Grill Meals: GM11. 6 Lamb Chops Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"6, 13"
+Grill Meals,581,"GM12. 2 Lamb Chops, 2 Grilled Wings Meal",9.5,1,1,16,"Grill Meals: GM12. 2 Lamb Chops, 2 Grilled Wings Meal",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Grill Meals,583,GM13. 4 Naga Lamb Chops Meal,15.5,1,1,18,Grill Meals: GM13. 4 Naga Lamb Chops Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Kebab Meals,547,TM1. Mixed Kebab,6.5,1,1,0,"4pcs chicken tikka, 1pc sheekh kebab with naan",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kebab Meals,548,TM2. Sheekh Kebab,5.5,1,1,1,2pcs sheekh kebab with naan,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kebab Meals,549,TM3. Mixed Kebab Meal,7.95,1,1,2,"4pcs chicken tikka, 1pcs sheekh kebab with chips and drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Kebab Meals,550,TM4. Sheekh Kebab Meal,6.95,1,1,3,2pcs sheekh kebab with chips and drink,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Kebab Meals,551,TM5. Chicken Tikka Wrap,5.95,1,1,4,Kebab Meals: TM5. Chicken Tikka Wrap,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kebab Meals,552,TM5. Chicken Tikka Wrap Meal,7.95,1,1,5,Kebab Meals: TM5. Chicken Tikka Wrap Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Kebab Meals,553,TM5. Lamb Tikka Wrap,5.95,1,1,6,Kebab Meals: TM5. Lamb Tikka Wrap,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kebab Meals,554,TM5. Lamb Tikka Wrap Meal,7.95,1,1,7,Kebab Meals: TM5. Lamb Tikka Wrap Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Kebab Meals,555,TM6. Mix Tikka Wrap,5.95,1,1,8,Kebab Meals: TM6. Mix Tikka Wrap,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kebab Meals,556,TM6. Mix Tikka Wrap Meal,7.95,1,1,9,Kebab Meals: TM6. Mix Tikka Wrap Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Kebab Meals,557,TM7. Chicken Tikka Naan,6.0,1,1,10,Kebab Meals: TM7. Chicken Tikka Naan,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kebab Meals,558,TM7. Lamb Tikka Naan,6.0,1,1,11,Kebab Meals: TM7. Lamb Tikka Naan,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kebab Meals,559,TM8. Chicken Meal,7.95,1,1,12,Kebab Meals: TM8. Chicken Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Kebab Meals,560,TM8. Lamb Meal,7.95,1,1,13,Kebab Meals: TM8. Lamb Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Kebab Meals,561,TM9. Sheekh Kebab Wrap,5.95,1,1,14,Kebab Meals: TM9. Sheekh Kebab Wrap,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kebab Meals,562,TM9. Sheekh Kebab Wrap Meal,7.95,1,1,15,Kebab Meals: TM9. Sheekh Kebab Wrap Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Kebab Meals,563,TM10. Mixed Kebab Wrap,5.95,1,1,16,Kebab Meals: TM10. Mixed Kebab Wrap,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kebab Meals,564,TM10. Mixed Kebab Wrap Meal,7.95,1,1,17,Kebab Meals: TM10. Mixed Kebab Wrap Meal,https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Curry,595,Bhuna,9.5,1,1,0,"Traditional sauce, medium hot",https://images.alaan.co.uk/spice-hut/products/28de6d05cb3a1bf0.webp,False,None,True,"12, 15"
+Curry,596,Curry,9.5,1,1,0,Curry: Curry,https://images.alaan.co.uk/spice-hut/products/3202867df0c5600b.webp,False,None,True,"12, 15"
+Curry,597,Vindaloo,9.5,1,1,0,"Curry with potatoes, very hot",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,598,Garlic,9.5,1,1,0,Cooked with generous amounts of garlic and onions. Very hot,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,599,Saag,9.5,1,1,0,"Mixed curry, fresh garlic, fresh spinach and onions. Medium hot",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,600,Chilli,9.5,1,1,0,Cooked with fresh green chillies and onions. Very hot,https://images.alaan.co.uk/spice-hut/products/c122eeccaf1140bb.webp,False,None,True,"12, 15"
+Curry,601,Dansak,9.5,1,1,0,"Cooked with lentil, lemon juice & aromatic herbs. How, sweet & sour",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,602,Jalfrezi,9.5,1,1,0,"Cooked with ground spices, green chillies, tomatoes, capsicum & spring onions. Hot spicy sauce",https://images.alaan.co.uk/spice-hut/products/9e8e83ad11aff71a.webp,False,None,True,"12, 15"
+Curry,603,Korahi,9.5,1,1,0,"Cooked with fresh ginger, onions, herbs & spice. Medium",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,604,Shatkora,10.0,1,1,0,"Cooked with fresh onions, peppers & shatkora (special lime from bangladesh)",https://images.alaan.co.uk/spice-hut/products/8fdb0b933cf46ae0.webp,False,None,True,"12, 15"
+Curry,605,Balti,10.0,1,1,0,Cooked with aromatic herbs & spices giving a splendid exotic flavour. Medium spice,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,606,Masala,10.5,1,1,0,Cooked with ground almonds & coconut in a smooth & creamy masala sauce.,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,607,Korma,9.5,1,1,0,"Cooked with ground almonds, coconut & fresh cream. Very mild",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,608,Dopiaza,9.5,1,1,0,Curry: Dopiaza,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,609,Madras,9.5,1,1,0,Medium hot,https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Curry,610,Butter,10.0,1,1,0,"Cooked with almonds, coconut & fresh cream. Very mild.",https://via.placeholder.com/500x500?text=No+Image,False,None,True,"12, 15"
+Kids Meals,633,KM1. 2 Wings & Chips,2.5,1,1,0,Kids Meals: KM1. 2 Wings & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,634,KM2. 3 Wings & Chips,3.0,1,1,0,Kids Meals: KM2. 3 Wings & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,635,KM3. 4 Wings & Chips,3.8,1,1,0,Kids Meals: KM3. 4 Wings & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,636,KM4. 4 Nuggets & Chips,3.8,1,1,0,Kids Meals: KM4. 4 Nuggets & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,637,KM5. 4 Fish Fingers & Chips,3.8,1,1,0,Kids Meals: KM5. 4 Fish Fingers & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,638,KM6. 1 PC Chicken & Chips,3.0,1,1,0,Kids Meals: KM6. 1 PC Chicken & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,639,KM7. Beef Burger & Chips,3.8,1,1,0,Kids Meals: KM7. Beef Burger & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,640,KM8. Strip Burger,4.2,1,1,0,Kids Meals: KM8. Strip Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,641,KM9. Strip Burger & Chips,4.95,1,1,0,Kids Meals: KM9. Strip Burger & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,642,KM10. 6 Popcorn & Chips,3.8,1,1,0,Kids Meals: KM10. 6 Popcorn & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,643,KM11 8 Popcorns,3.5,1,1,0,Kids Meals: KM11 8 Popcorns,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,644,KM12. 4 Onion Rings & Chips,3.5,1,1,0,Kids Meals: KM12. 4 Onion Rings & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,645,KM13. 4 Strips & Chips,5.5,1,1,0,Kids Meals: KM13. 4 Strips & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Kids Meals,646,KM14. Cheese Burger & Chips,4.5,1,1,0,Kids Meals: KM14. Cheese Burger & Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,751,1 PC Wing,0.5,1,1,0,Singles: 1 PC Wing,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,752,3 PCS Wings,1.5,1,1,1,Singles: 3 PCS Wings,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,619,4 PCS Wings,2.0,1,1,2,Singles: 4 PCS Wings,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,755,5 PCS Wings,2.5,1,1,3,Singles: 5 PCS Wings,https://images.alaan.co.uk/spice-hut/products/28e7dd2586c5ec71.webp,False,None,False,None
+Singles,753,10 PCS Wings,5.0,1,1,4,Singles: 10 PCS Wings,https://images.alaan.co.uk/spice-hut/products/775bc5fcf38e0695.webp,False,None,False,None
+Singles,754,20 PCS Wings,10.0,1,1,6,Singles: 20 PCS Wings,https://images.alaan.co.uk/spice-hut/products/775bc5fcf38e0695.webp,False,None,False,None
+Singles,626,Chips,2.0,1,1,7,Singles: Chips,https://images.alaan.co.uk/spice-hut/products/e262360b22770afa.webp,False,None,False,None
+Singles,627,Large Chips,3.0,1,1,8,Singles: Large Chips,https://images.alaan.co.uk/spice-hut/products/e262360b22770afa.webp,False,None,False,None
+Singles,691,Burger Sauce,0.5,1,1,9,Singles: Burger Sauce,https://images.alaan.co.uk/spice-hut/products/9d2c28a6e0e71b78.webp,False,None,False,None
+Singles,693,Chilli Sauce,0.5,1,1,10,Singles: Chilli Sauce,https://images.alaan.co.uk/spice-hut/products/063b3634abb75320.webp,False,None,False,None
+Singles,692,Garlic Sauce,0.5,1,1,11,Singles: Garlic Sauce,https://images.alaan.co.uk/spice-hut/products/c631337cf8297f14.webp,False,None,False,None
+Singles,697,Ketchup,0.5,1,1,12,Singles: Ketchup,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,696,Mayo,0.5,1,1,13,Singles: Mayo,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,695,Mint Sauce,0.5,1,1,14,Singles: Mint Sauce,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,694,Sweet Chilli,0.5,1,1,15,Singles: Sweet Chilli,https://images.alaan.co.uk/spice-hut/products/8d67ecd6082bae84.webp,False,None,False,None
+Singles,621,4 PCS Naga Wings,4.0,1,1,18,Singles: 4 PCS Naga Wings,https://images.alaan.co.uk/spice-hut/products/e598fd4f0ff53498.webp,False,None,False,None
+Singles,622,10 PCS Naga Wings,10.0,1,1,19,Singles: 10 PCS Naga Wings,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,631,1PC Chicken,1.75,1,1,20,Singles: 1PC Chicken,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,628,4 PCS Chicken Strips,4.5,1,1,21,Singles: 4 PCS Chicken Strips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,618,6 Nuggets,4.0,1,1,22,Singles: 6 Nuggets,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,629,6 Onion Rings,4.0,1,1,23,Singles: 6 Onion Rings,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,617,6 Chilli Cheese Bites,4.5,1,1,24,Singles: 6 Chilli Cheese Bites,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,630,6 Fish Fingers,4.0,1,1,25,Singles: 6 Fish Fingers,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,616,1/4 Pounder,5.5,1,1,27,Singles: 1/4 Pounder,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,623,Chicken Doner Roll,5.5,1,1,28,Singles: Chicken Doner Roll,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,613,Chicken Steak Burger,3.5,1,1,29,Singles: Chicken Steak Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,612,Chicken Strip Burger,4.2,1,1,30,Singles: Chicken Strip Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,624,Lamb Doner Roll,5.5,1,1,31,Singles: Lamb Doner Roll,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,625,Mixed Doner Roll,5.5,1,1,32,Singles: Mixed Doner Roll,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,615,Tower Burger,6.0,1,1,33,Singles: Tower Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Singles,614,Veggie Burger,4.5,1,1,34,Singles: Veggie Burger,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Rice Naan,653,Plain Rice,3.2,1,1,0,Rice Naan: Plain Rice,https://images.alaan.co.uk/spice-hut/products/0b7ebbaabb1dc7d2.webp,False,None,False,None
+Rice Naan,654,Pilau Rice,4.5,1,1,1,Rice Naan: Pilau Rice,https://images.alaan.co.uk/spice-hut/products/4c3f777fa619cadf.webp,False,None,False,None
+Rice Naan,656,Egg Fried Rice,5.0,1,1,2,Rice Naan: Egg Fried Rice,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Rice Naan,657,Special Fried Rice,5.5,1,1,3,Rice Naan: Special Fried Rice,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Rice Naan,655,Onion Fried Rice,5.0,1,1,4,Rice Naan: Onion Fried Rice,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Rice Naan,658,Plain Naan,1.7,1,1,5,Rice Naan: Plain Naan,https://images.alaan.co.uk/spice-hut/products/2b97c165ea6050f8.webp,False,gluten,False,None
+Rice Naan,659,Butter Naan,1.8,1,1,6,Rice Naan: Butter Naan,https://images.alaan.co.uk/spice-hut/products/7164bf42b716a26c.webp,False,gluten,False,None
+Rice Naan,660,Peshwari Naan,3.0,1,1,7,Rice Naan: Peshwari Naan,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Rice Naan,661,Garlic Naan,3.0,1,1,8,Rice Naan: Garlic Naan,https://images.alaan.co.uk/spice-hut/products/0dc224a6977a84dd.webp,False,gluten,False,None
+Rice Naan,662,Keema Naan,3.0,1,1,9,Rice Naan: Keema Naan,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Rice Naan,665,Tandoori Roti,2.2,1,1,10,Rice Naan: Tandoori Roti,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Rice Naan,663,Chapati,2.2,1,1,11,Rice Naan: Chapati,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Rice Naan,664,Paratha,3.2,1,1,12,Rice Naan: Paratha,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,669,Bombay Aloo,4.95,1,1,0,Side Dishes: Bombay Aloo,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,670,Chana Bhuna,4.95,1,1,1,Side Dishes: Chana Bhuna,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,668,Curry,4.95,1,1,2,Side Dishes: Curry,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,666,Dall,4.95,1,1,3,Side Dishes: Dall,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,674,Finni,2.0,1,1,4,Side Dishes: Finni,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,667,Mixed Veg,4.95,1,1,5,Side Dishes: Mixed Veg,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,673,Paneer,5.5,1,1,6,Side Dishes: Paneer,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,672,Sag Aloo,5.5,1,1,7,Side Dishes: Sag Aloo,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,671,Sag Bhaji,5.5,1,1,8,Side Dishes: Sag Bhaji,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Side Dishes,675,Popadom,1.0,1,1,9,Side Dishes: Popadom,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Starters,532,"ST1 2 Pcs Tandoori Chicken, 4 Pcs Lamb Chops & 2 Pcs Sheek Kebab, 2 naans",19.5,1,1,0,"Starters: ST1 2 Pcs Tandoori Chicken, 4 Pcs Lamb Chops & 2 Pcs Sheek Kebab, 2 naans",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Starters,533,"ST2 3 Pcs Lamb Chops, 3 pcs chicken tikka, 1 pc sheek kebab & 1 reg chips",14.5,1,1,0,"Starters: ST2 3 Pcs Lamb Chops, 3 pcs chicken tikka, 1 pc sheek kebab & 1 reg chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Starters,534,ST3 6 pcs lamb chops & 1 reg fries,19.5,1,1,0,Starters: ST3 6 pcs lamb chops & 1 reg fries,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Starters,535,"ST4 4 pcs chicken tikka, 2 pcs sheek kebab & 1 reg chips",9.0,1,1,0,"Starters: ST4 4 pcs chicken tikka, 2 pcs sheek kebab & 1 reg chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Starters,536,ST5 Prawn Puri,7.5,1,1,0,Starters: ST5 Prawn Puri,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,537,"F1. 10 PCS Chicken, 12 wings, 3 Chips",26.0,1,0,0,"Family Meals: F1. 10 PCS Chicken, 12 wings, 3 Chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,538,"F2. 10 PCS Chicken, 3 chips",21.0,1,0,8,"Family Meals: F2. 10 PCS Chicken, 3 chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,539,"F3. 8 PCS Chicken, 12, 3 Chips",22.0,1,0,1,"Family Meals: F3. 8 PCS Chicken, 12, 3 Chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,540,"F4. 8 PCS Chicken, 3 Chips",17.0,1,0,2,"Family Meals: F4. 8 PCS Chicken, 3 Chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,541,"F5. 5 PCS Chicken, 12 wings, 3 Chips",18.0,1,0,3,"Family Meals: F5. 5 PCS Chicken, 12 wings, 3 Chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,542,"F6. 5 PCS Chicken, 12 Wings",14.0,1,0,4,"Family Meals: F6. 5 PCS Chicken, 12 Wings",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,543,"F7. 5 PCS Chicken, 2 Chips",11.0,1,0,5,"Family Meals: F7. 5 PCS Chicken, 2 Chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,544,"F8. 5 PCS Chicken, 10 wings, 3 Chips",16.0,1,0,6,"Family Meals: F8. 5 PCS Chicken, 10 wings, 3 Chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,545,"F9. 3 PCS Chicken, 5 wings, 2 chips",9.5,1,0,7,"Family Meals: F9. 3 PCS Chicken, 5 wings, 2 chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,546,"F11. 20 PCS Wings, 3 Chips",14.5,1,0,9,"Family Meals: F11. 20 PCS Wings, 3 Chips",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Family Meals,756,Ramadan Special Box,30.0,1,0,11,"1 Large biryani, 1 Large Doner, 10 Pcs Wings, 6 Pakoras, 2 Mak SIngle Cheeseburgers, 1 Nan, 1 Portion Large Chips, 2 Portions of Chana and dates.",https://images.alaan.co.uk/spice-hut/products/ae000a970ff4ec45.webp,True,None,True,"16, 15, 17, 14"
+Flame Grilled,565,GM1. 5 Grill Wings,5.0,1,1,0,Flame Grilled: GM1. 5 Grill Wings,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Flame Grilled,647,4 pcs Grilled Wings,5.5,1,1,0,Flame Grilled: 4 pcs Grilled Wings,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Flame Grilled,648,Full Tandoori Chicken,14.0,1,1,1,Flame Grilled: Full Tandoori Chicken,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Flame Grilled,649,Half Tandoori Chicken,7.95,1,1,2,Flame Grilled: Half Tandoori Chicken,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Flame Grilled,650,Chicken Tikka,5.0,1,1,3,Flame Grilled: Chicken Tikka,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Flame Grilled,651,Lamb Tikka,5.0,1,1,4,Flame Grilled: Lamb Tikka,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Flame Grilled,652,Sheek Kebab 2 pcs,4.0,1,1,5,Flame Grilled: Sheek Kebab 2 pcs,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Flame Grilled,573,GM6. 4 Lamb Chops,12.0,1,1,8,Flame Grilled: GM6. 4 Lamb Chops,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Flame Grilled,582,GM13. 4 Naga Lamb Chops,13.0,1,1,17,Flame Grilled: GM13. 4 Naga Lamb Chops,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Loaded Box,676,LB1. Loaded Box 1,19.5,1,1,0,"1 lamb doner, 4 wings, 2 lamb chops, 2 MAK single cheese burgers, chips & drink",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Loaded Box,677,LB2. Loaded Box 2,27.0,1,1,0,"1 doner, chicken burger, 4 lamb chops, 4 grilled wings, pilau rice & 2 drinks",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Loaded Box,678,LB3. Loaded Box 3,28.0,1,1,0,"1 naga chicken burger, 4 pcs naga wings, 1 naga doner, 4 naga lamb chops, chips and 2 drinks",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Platters,679,Family Platter,41.5,1,0,0,"4 lamb chops, 4 sheekh kebab, 4pcs tandoori chicken, 4 lamb tikka, 4 chicken tikka, 4 grilled wings and 2 naan",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Platters,680,Medium Platter,24.5,1,0,0,"2 lamb chops, 2 sheekh kebab, 2 pcs tandoori chicken, 2 lamb tikka, 2 chicken tikka, 4 grilled wings & 2 naan",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Platters,681,Single Platter,19.0,1,0,0,"2 lamb chops, 1 sheekh kebab, 1pcs tandoori chicken, 2 lamb tikka, chicken tikka, 2 grilled wings and 1 naan",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Platters,682,Grill Meal,12.5,1,0,0,"2 lamb chops, 1 sheekh kebab, 3 chicken tikka, chips & drink",https://via.placeholder.com/500x500?text=No+Image,False,None,True,13
+Offers,460,6 Lamb Doners with Naan,38.0,1,0,0,Offers: 6 Lamb Doners with Naan,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Offers,461,3 Lamb Doners with Naan & 3 Lamb Doners with Chips,39.0,1,0,0,Offers: 3 Lamb Doners with Naan & 3 Lamb Doners with Chips,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Offers,462,6 Chicken Doners with Naan,38.5,1,0,0,Offers: 6 Chicken Doners with Naan,https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
+Offers,463,"2 Mixed Doners, 2 Chicken Doners, & 2 Lamb Doners",39.0,1,0,0,"Offers: 2 Mixed Doners, 2 Chicken Doners, & 2 Lamb Doners",https://via.placeholder.com/500x500?text=No+Image,False,None,False,None
