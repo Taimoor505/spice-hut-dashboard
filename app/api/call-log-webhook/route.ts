@@ -11,6 +11,49 @@ function mapStatus(value: string): 'COMPLETED' | 'MISSED' | 'FAILED' {
   return 'COMPLETED';
 }
 
+async function readWebhookBody(req: NextRequest): Promise<Record<string, unknown> | null> {
+  const contentType = req.headers.get('content-type')?.toLowerCase() || '';
+
+  if (contentType.includes('application/json')) {
+    return req.json().catch(() => null);
+  }
+
+  if (
+    contentType.includes('application/x-www-form-urlencoded') ||
+    contentType.includes('multipart/form-data')
+  ) {
+    const form = await req.formData().catch(() => null);
+    if (!form) return null;
+    return Object.fromEntries(form.entries());
+  }
+
+  const text = await req.text().catch(() => '');
+  if (!text) return null;
+
+  try {
+    return JSON.parse(text);
+  } catch {
+    return Object.fromEntries(new URLSearchParams(text).entries());
+  }
+}
+
+function normalizePayload(input: Record<string, unknown> | null): Record<string, unknown> | null {
+  if (!input || typeof input !== 'object') return null;
+
+  const payload = { ...input };
+
+  if (!payload.timestamp) {
+    payload.timestamp = new Date().toISOString();
+  }
+
+  if (typeof payload.duration === 'string') {
+    const parsed = Number.parseInt(payload.duration, 10);
+    if (Number.isFinite(parsed)) payload.duration = parsed;
+  }
+
+  return payload;
+}
+
 export async function POST(req: NextRequest) {
   const secret = req.headers.get('x-webhook-secret');
   if (!secret || secret !== process.env.WEBHOOK_SECRET) {
@@ -22,10 +65,19 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Rate limit exceeded' }, { status: 429 });
   }
 
-  const body = await req.json().catch(() => null);
+  const body = normalizePayload(await readWebhookBody(req));
   const parsed = callLogWebhookSchema.safeParse(body);
   if (!parsed.success) {
-    return NextResponse.json({ error: 'Invalid payload' }, { status: 400 });
+    return NextResponse.json(
+      {
+        error: 'Invalid payload',
+        issues: parsed.error.issues.map((issue) => ({
+          path: issue.path.join('.'),
+          message: issue.message
+        }))
+      },
+      { status: 400 }
+    );
   }
 
   const data = parsed.data;
