@@ -14,7 +14,10 @@ export const signupSchema = z.object({
 export const callLogWebhookSchema = z.object({
   customer_name: z.string().min(1).max(120),
   phone: z.string().min(5).max(30),
-  direction: z.enum(['inbound', 'outbound']),
+  direction: z.preprocess(
+    (value) => (typeof value === 'string' ? value.toLowerCase().trim() : value),
+    z.enum(['inbound', 'outbound'])
+  ),
   status: z.string().min(1).max(40),
   duration: z.coerce.number().int().min(0).max(10800),
   timestamp: z.string().datetime(),
