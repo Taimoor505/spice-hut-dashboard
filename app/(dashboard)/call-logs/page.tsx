@@ -1,8 +1,9 @@
-﻿'use client';
+'use client';
 
+import Link from 'next/link';
 import { useEffect, useMemo, useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
-import { ChevronDown, Download, PhoneCall, Search, Filter } from 'lucide-react';
+import { ChevronDown, Download, PhoneCall, Search, Filter, ExternalLink } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 
@@ -17,7 +18,6 @@ type CallLog = {
   recordingUrl: string | null;
   transcription: string;
   orderSummary: string | null;
-  aiConfidence: number | null;
 };
 
 function statusBadge(status: CallLog['status']) {
@@ -225,23 +225,31 @@ export default function CallLogsPage() {
                       {/* Details */}
                       <div className="space-y-4">
                         <div className="rounded-xl border border-[var(--line-light)] bg-[#faf8f6] p-4">
-                          <p className="text-2xs font-semibold uppercase tracking-[0.1em] text-ink-400">Order Summary</p>
+                          <div className="flex items-center justify-between gap-3">
+                            <p className="text-2xs font-semibold uppercase tracking-[0.1em] text-ink-400">Order Summary</p>
+                            <Link href={`/order?callId=${log.id}`}>
+                              <Button size="sm" variant="secondary" className="h-8 gap-1.5 px-3 text-xs">
+                                View in Order Sheet
+                              </Button>
+                            </Link>
+                          </div>
                           <p className="mt-3 text-sm text-ink-700">{log.orderSummary || 'No order parsed for this call.'}</p>
                         </div>
 
                         <div className="rounded-xl border border-[var(--line-light)] bg-[#faf8f6] p-4">
-                          <div className="flex items-center justify-between">
-                            <p className="text-2xs font-semibold uppercase tracking-[0.1em] text-ink-400">AI Confidence</p>
-                            <span className="text-sm font-bold text-ink-800">
-                              {log.aiConfidence !== null ? `${Math.round(log.aiConfidence * 100)}%` : 'N/A'}
-                            </span>
-                          </div>
-                          <div className="mt-3 h-2 overflow-hidden rounded-full bg-ink-100">
-                            <div
-                              className="h-full rounded-full bg-gradient-to-r from-spice-400 to-spice-600 transition-all duration-500"
-                              style={{ width: `${Math.max(4, Math.round((log.aiConfidence ?? 0) * 100))}%` }}
-                            />
-                          </div>
+                          <p className="text-2xs font-semibold uppercase tracking-[0.1em] text-ink-400">Call Recording</p>
+                          {log.recordingUrl ? (
+                            <a
+                              href={log.recordingUrl}
+                              target="_blank"
+                              rel="noreferrer"
+                              className="mt-3 inline-flex items-center gap-1.5 rounded-lg bg-spice-600 px-3 py-2 text-sm font-medium text-white transition hover:bg-spice-700"
+                            >
+                              Open Recording in GHL <ExternalLink size={14} />
+                            </a>
+                          ) : (
+                            <p className="mt-3 text-sm text-ink-400">No GHL recording link available for this call.</p>
+                          )}
                         </div>
 
                         <div className="flex items-center justify-between rounded-xl border border-[var(--line-light)] bg-[#faf8f6] px-4 py-3 text-sm">
@@ -271,3 +279,4 @@ export default function CallLogsPage() {
     </div>
   );
 }
+

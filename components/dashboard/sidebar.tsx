@@ -2,12 +2,13 @@
 
 import Link from 'next/link';
 import { usePathname, useRouter } from 'next/navigation';
-import { LayoutDashboard, PhoneCall, UtensilsCrossed, Bot, X, LogOut, Flame } from 'lucide-react';
+import { LayoutDashboard, PhoneCall, UtensilsCrossed, Bot, X, LogOut, Flame, Sheet } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 const links = [
   { href: '/overview', label: 'Overview', icon: LayoutDashboard },
   { href: '/call-logs', label: 'Call Logs', icon: PhoneCall },
+  { href: '/order', label: 'Order', icon: Sheet },
   { href: '/menu', label: 'Menu', icon: UtensilsCrossed },
   { href: '/ai-settings', label: 'AI Integration', icon: Bot }
 ];
