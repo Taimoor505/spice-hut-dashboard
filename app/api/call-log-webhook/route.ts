@@ -70,6 +70,27 @@ function normalizePayload(input: Record<string, unknown> | null): Record<string,
     if (d.includes('outbound') || d.includes('outgoing')) payload.direction = 'outbound';
   }
 
+  const decode = (value: unknown) => {
+    if (typeof value !== 'string') return value;
+    if (!value.includes('%')) return value;
+    try {
+      return decodeURIComponent(value);
+    } catch {
+      return value;
+    }
+  };
+
+  payload.customer_name = decode(payload.customer_name);
+  payload.phone = decode(payload.phone);
+  payload.direction = decode(payload.direction);
+  payload.status = decode(payload.status);
+  payload.timestamp = decode(payload.timestamp);
+  payload.transcription = decode(payload.transcription);
+  payload.order_summary = decode(payload.order_summary);
+  payload.recording_url = decode(payload.recording_url);
+  payload.ai_confidence = decode(payload.ai_confidence);
+  payload.duration = decode(payload.duration);
+
   if (!payload.timestamp) {
     payload.timestamp = new Date().toISOString();
   }
