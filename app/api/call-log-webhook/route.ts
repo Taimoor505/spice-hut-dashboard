@@ -40,7 +40,35 @@ async function readWebhookBody(req: NextRequest): Promise<Record<string, unknown
 function normalizePayload(input: Record<string, unknown> | null): Record<string, unknown> | null {
   if (!input || typeof input !== 'object') return null;
 
-  const payload = { ...input };
+  const root =
+    (input.payload as Record<string, unknown>) ||
+    (input.data as Record<string, unknown>) ||
+    (input.body as Record<string, unknown>) ||
+    input;
+
+  const payload: Record<string, unknown> = { ...root };
+
+  if (!payload.customer_name && typeof payload.customerName === 'string') {
+    payload.customer_name = payload.customerName;
+  }
+  if (!payload.phone && typeof payload.phone_number === 'string') {
+    payload.phone = payload.phone_number;
+  }
+  if (!payload.phone && typeof payload.caller_phone === 'string') {
+    payload.phone = payload.caller_phone;
+  }
+  if (!payload.transcription && typeof payload.transcript === 'string') {
+    payload.transcription = payload.transcript;
+  }
+  if (!payload.order_summary && typeof payload.orderSummary === 'string') {
+    payload.order_summary = payload.orderSummary;
+  }
+
+  if (typeof payload.direction === 'string') {
+    const d = payload.direction.toLowerCase();
+    if (d.includes('inbound') || d.includes('incoming')) payload.direction = 'inbound';
+    if (d.includes('outbound') || d.includes('outgoing')) payload.direction = 'outbound';
+  }
 
   if (!payload.timestamp) {
     payload.timestamp = new Date().toISOString();
@@ -65,7 +93,12 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Rate limit exceeded' }, { status: 429 });
   }
 
-  const body = normalizePayload(await readWebhookBody(req));
+  const rawBody = await readWebhookBody(req);
+  const query = Object.fromEntries(req.nextUrl.searchParams.entries());
+  const body =
+    rawBody && Object.keys(rawBody).length > 0
+      ? normalizePayload({ ...query, ...rawBody })
+      : normalizePayload(query);
   const parsed = callLogWebhookSchema.safeParse(body);
   if (!parsed.success) {
     return NextResponse.json(
