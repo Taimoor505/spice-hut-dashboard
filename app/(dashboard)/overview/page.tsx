@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
-import { PhoneCall, ShoppingCart, DollarSign, UtensilsCrossed, TrendingUp, AlertTriangle } from 'lucide-react';
+import { PhoneCall, ShoppingCart, PoundSterling, UtensilsCrossed, TrendingUp, AlertTriangle } from 'lucide-react';
 import { formatCurrency } from '@/lib/utils';
 
 type OverviewData = {
@@ -34,7 +34,7 @@ const kpiConfig = [
   {
     key: 'revenue',
     title: 'Revenue',
-    icon: DollarSign,
+    icon: PoundSterling,
     color: 'from-spice-500 to-spice-600',
     bgLight: 'bg-spice-50',
     textColor: 'text-spice-600'
